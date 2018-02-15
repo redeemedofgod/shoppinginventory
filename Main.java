@@ -1,7 +1,6 @@
 //Just a filler file to show this project as java
 
 import java.sql.*;
-import java.lang.*;
 
 public class Main {
 
